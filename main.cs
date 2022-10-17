@@ -9,7 +9,6 @@ class Program
 {
     public static void Main(string[] args)
     {
-      // This function accepts user input
         int length;
         int width;
         int area;
